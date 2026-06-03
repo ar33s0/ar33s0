@@ -2,4 +2,4 @@
 
 I'm **Ares**.
 
-I'm interested in **OSINT** ans understanding the inside of people.
+I'm interested in **OSINT** and understanding the inside of people.
